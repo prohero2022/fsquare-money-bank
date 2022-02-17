@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500&family=Kaisei+Decol:wght@400;700&family=Poppins:wght@400;500;700&family=Roboto:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    box-sizing: border-box;
+}
+
+.heading {
+    color: #09090a;
+    font-weight: bold;
+}
+
+.errorMsg {
+    font-size: 15px;
+    color: red;
+    margin-bottom: 0;
+    display: none;
+}
+
+h4,
+label,
+h5 {
+    color: white;
+    font-weight: 700;
+}
+
+.calculation-part {
+    background-color: #2b1919;
+}
